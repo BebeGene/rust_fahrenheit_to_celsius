@@ -14,3 +14,4 @@ This simple command-line program written in Rust prompts the user to enter a tem
 * cargo run
 
 ## Screenshots
+![AltText](https://github.com/BebeGene/rust_fahrenheit_to_celsius/blob/master/Screenshots/Temperature.png)
